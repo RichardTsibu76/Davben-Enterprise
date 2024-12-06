@@ -1,2 +1,2 @@
-This is a Readme file for Davben requested Project to showcase his photocopiers machines online
-This is project is built with htm, css and javascript
+This is my Readme file for Davben's Mini Project, requesting to be built with only Html , Css and Javascript
+Static Site
